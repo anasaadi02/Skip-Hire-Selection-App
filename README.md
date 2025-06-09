@@ -47,7 +47,7 @@ This project is a complete reimagining of a skip hire selection interface, trans
 
 1. **Professional Branding Approach**
    - Added complete business header with company name and tagline
-   - Included service highlights (Free Delivery, 14-Day Hire, 24/7 Support)
+   - Included service highlights (such as Free Delivery, 14-Day Hire, 24/7 Support — these are just examples)
    - Used eco-friendly green and blue color palette
    - Professional typography and spacing
 
