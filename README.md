@@ -39,6 +39,10 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - **Branding**: Full business identity with EcoWaste Solutions branding
 - **Information**: Comprehensive details including features, restrictions, and descriptions
 
+  ![image](https://github.com/user-attachments/assets/9041eb29-b00a-4246-bc94-1e150ec41488)
+
+  ![image](https://github.com/user-attachments/assets/c3c2b80f-22e7-412e-b6b9-90f959f4764c)
+
 ### Key Design Decisions
 
 1. **Professional Branding Approach**
