@@ -1,4 +1,4 @@
-# EcoWaste Solutions - Skip Hire Selection App
+# REMWaste - Skip Hire Selection App
 
 A modern React application for skip hire selection with professional branding and enhanced user experience.
 
@@ -12,7 +12,7 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - **Skip Selection System**: Choose from 9 different skip sizes (4-40 yards)
 - **Real-time Pricing**: Dynamic pricing with VAT calculations
 - **Road Restrictions**: Clear warnings for skips that cannot be placed on public roads
-- **Professional Branding**: Complete business identity with EcoWaste Solutions branding
+- **Professional Branding**: Complete business identity with REMWaste branding
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 
 ### Technical Features
@@ -36,7 +36,7 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - **Theme**: Light, professional gradient theme (slate-50 to blue-50)
 - **Layout**: Horizontal list view with image-left, content-right layout
 - **Card Style**: Expanded cards with detailed information and features
-- **Branding**: Full business identity with EcoWaste Solutions branding
+- **Branding**: Full business identity with REMWaste branding
 - **Information**: Comprehensive details including features, restrictions, and descriptions
 
   ![image](https://github.com/user-attachments/assets/9041eb29-b00a-4246-bc94-1e150ec41488)
@@ -47,7 +47,7 @@ This project is a complete reimagining of a skip hire selection interface, trans
 
 1. **Professional Branding Approach**
    - Added complete business header with company name and tagline
-   - Included service highlights (Free Delivery, 14-Day Hire, 24/7 Support)
+   - Included service highlights (such as Free Delivery, 14-Day Hire, 24/7 Support — these are just examples)
    - Used eco-friendly green and blue color palette
    - Professional typography and spacing
 
@@ -108,7 +108,7 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - Implemented responsive grid system
 
 ### Phase 3: Business Integration
-- Added EcoWaste Solutions branding
+- Added REMWaste branding
 - Integrated real API data
 - Implemented pricing calculations
 
@@ -147,7 +147,7 @@ npm run build
 ## 🎨 Design System
 
 ### Colors
-- **Primary Green**: #10b981 (EcoWaste brand)
+- **Primary Green**: #10b981 (REMWaste brand)
 - **Secondary Blue**: #3b82f6 (Actions and highlights)
 - **Warning Orange**: #f59e0b (Road restrictions)
 - **Text Gray**: #6b7280 (Secondary text)

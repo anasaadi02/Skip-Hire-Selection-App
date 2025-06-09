@@ -9,7 +9,7 @@ const Header = () => {
           <div className="logo">
             <div className="logo-icon">♻️</div>
             <div className="logo-text">
-              <h1 className="company-name">EcoWaste Solutions</h1>
+              <h1 className="company-name">REMWaste</h1>
               <p className="company-tagline">Professional Waste Management</p>
             </div>
           </div>
