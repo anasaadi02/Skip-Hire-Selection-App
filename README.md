@@ -39,7 +39,8 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - **Branding**: Full business identity with REMWaste branding
 - **Information**: Comprehensive details including features, restrictions, and descriptions
 
-  ![image](https://github.com/user-attachments/assets/131f0eb5-8ec6-4f48-a058-9a991b2c7cba)
+  ![image](https://github.com/user-attachments/assets/bae5a5dd-08c8-42a2-b72c-b59290e80fba)
+
 
   ![image](https://github.com/user-attachments/assets/f8d1d342-5688-45d2-8670-4557e28ec501)
 
