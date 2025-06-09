@@ -1,4 +1,4 @@
-# REMWaste - Skip Hire Selection App
+![image](https://github.com/user-attachments/assets/f8d1d342-5688-45d2-8670-4557e28ec501)# REMWaste - Skip Hire Selection App
 
 A modern React application for skip hire selection with professional branding and enhanced user experience.
 
@@ -39,9 +39,9 @@ This project is a complete reimagining of a skip hire selection interface, trans
 - **Branding**: Full business identity with REMWaste branding
 - **Information**: Comprehensive details including features, restrictions, and descriptions
 
-  ![image](https://github.com/user-attachments/assets/9041eb29-b00a-4246-bc94-1e150ec41488)
+  ![image](https://github.com/user-attachments/assets/131f0eb5-8ec6-4f48-a058-9a991b2c7cba)
 
-  ![image](https://github.com/user-attachments/assets/c3c2b80f-22e7-412e-b6b9-90f959f4764c)
+  ![image](https://github.com/user-attachments/assets/94d14f54-4827-4295-9f08-4aae291e85bf)
 
 ### Key Design Decisions
 
